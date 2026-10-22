@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdullah Nassan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3EE6FF&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%87%B3%F0%9F%87%B1;Back-end+%7C+AI+integrations+%7C+ERP;Improving+business+software+with+AI+%26+Claude;Turning+business+processes+into+software." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3EE6FF&center=true&vCenter=true&width=650&lines=Software+Developer+from+Breda+%F0%9F%87%B3%F0%9F%87%B1;Back-end+%7C+AI+integrations+%7C+ERP;Turning+business+processes+into+software." alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,6 @@
 
 Curious and flexible software developer with experience in back-end, front-end, ERP systems and AI integrations. I like turning real business processes into practical software that just works.
 
-- 🧠 Expert in using **AI (Claude, OpenAI)** to improve, automate and speed up business software
 - 🔭 Currently building **Wuzzi Alert-Bridge**, a Twilio-based emergency call system (Python + Flask)
 - 🤖 Studying **AI Engineering** at IBM: machine learning, deep learning and generative AI
 - 🎓 Software Development at Da Vinci College
@@ -25,7 +24,6 @@ Curious and flexible software developer with experience in back-end, front-end, 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-0B0F1A?style=for-the-badge&logo=claude&logoColor=3EE6FF" />
   <img src="https://img.shields.io/badge/OpenAI-0B0F1A?style=for-the-badge&logo=openai&logoColor=3EE6FF" />
   <img src="https://img.shields.io/badge/LangChain-0B0F1A?style=for-the-badge&logo=langchain&logoColor=3EE6FF" />
   <img src="https://img.shields.io/badge/Hugging%20Face-0B0F1A?style=for-the-badge&logo=huggingface&logoColor=3EE6FF" />
@@ -58,13 +56,6 @@ Curious and flexible software developer with experience in back-end, front-end, 
 ### 📜 Certifications
 
 ERPNext · Odoo ERP · Cybersecurity · WordPress · Arduino
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahnassan101-dot&show_icons=true&hide_border=true&bg_color=060A14&title_color=3EE6FF&icon_color=966EFF&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahnassan101-dot&layout=compact&hide_border=true&bg_color=060A14&title_color=3EE6FF&text_color=C9D1D9" />
-</p>
 
 ---
 
