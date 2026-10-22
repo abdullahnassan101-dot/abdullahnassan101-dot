@@ -53,9 +53,6 @@ Curious and flexible software developer with experience in back-end, front-end, 
 - **Software Developer** at Wuzzi Alert *(2025 – now)*
 - **Freelance Software Developer** at Azutech *(2024 – 2025)*: AI voice/call assistants, Java POS extensions
 
-### 📜 Certifications
-
-ERPNext · Odoo ERP · Cybersecurity · WordPress · Arduino
 
 ---
 
