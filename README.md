@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdullah Nassan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3EE6FF&center=true&vCenter=true&width=650&lines=Software+Developer+from+Breda+%F0%9F%87%B3%F0%9F%87%B1;Back-end+%7C+AI+integrations+%7C+ERP;Improving+business+software+with+AI+%26+Claude;Turning+business+processes+into+software." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3EE6FF&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%87%B3%F0%9F%87%B1;Back-end+%7C+AI+integrations+%7C+ERP;Improving+business+software+with+AI+%26+Claude;Turning+business+processes+into+software." alt="Typing SVG" />
 </p>
 
 ---
